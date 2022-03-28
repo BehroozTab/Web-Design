@@ -1,1 +1,2 @@
-# Computer-Graphics-Design
+# Graphics design portfolios
+
