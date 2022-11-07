@@ -1,2 +1,2 @@
-# Graphics design portfolios
+# Web design portfolios
 
